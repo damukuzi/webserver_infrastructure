@@ -1,0 +1,16 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "DavidFinalProject"
+	},
+    
+    {
+        "ParameterKey": "AMItoUse",
+        "ParameterValue": "ami-0729e439b6769d6ab"
+    },
+
+    {
+        "ParameterKey": "mybucket",
+        "ParameterValue": "finalprojectbucketnew"
+    }
+]
